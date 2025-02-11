@@ -1,0 +1,83 @@
+body{
+    background-color: rgb(77, 77, 80);
+}
+
+#walogo{
+    float:left;
+    height: 200px;
+    width: 200px;
+}
+
+#wabutt{
+    margin-left: 25px;
+    margin-top: 75px;
+}
+
+#fblogo{
+    float:right;
+    height: 200px;
+    width: 200px;
+    margin-top: 100px;
+}
+
+#fbbutt{
+    margin-left: 65%;
+    margin-top: 175px;
+    
+}
+
+#iglogo{
+    float:left;
+    height: 200px;
+    width: 200px;
+    margin-top: 100px;
+}
+
+#igbutt{
+    margin-left: 25px;
+    margin-top: 175px;
+    
+}
+
+#dclogo{
+    float:right;
+    height: 200px;
+    width: 200px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+#dcbutt{
+    margin-left: 65%;
+    margin-top: 110px;
+    margin-bottom: 50px;
+}
+
+#email{
+    border: solid 2px;
+}
+
+p{
+    justify-content: center;
+    position: center;
+    display: flex;
+    margin: auto;
+    font-size: 25px;
+}
+
+#emailbutn{
+    justify-content: center;
+    position: center;
+    display: flex;
+    margin: auto;
+    border-radius: 50px;
+    font-size: 25px;
+    color: rgb(253, 0, 0);
+    margin-bottom: 15px;
+}
+
+form{
+    justify-content: center;
+    position: center;
+    display: flex;
+}
