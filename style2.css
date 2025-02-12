@@ -1,0 +1,86 @@
+table{
+    border: 2;
+    border-radius: 2px;
+}
+
+body{
+    background-color: black;
+}
+
+@font-face {
+    font-family: Oswald-Light;
+    src: url(fonts/Oswald-Light.ttf);
+}
+
+
+h1{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+    border-right: 2px solid white;
+    border-radius: 1px;
+    text-shadow: 4px 3px 3px blue, -4px -3px 3px white;
+    margin: 3px;
+    
+}
+p{
+    font-family: Oswald-Light;
+    size: 1.1em;
+    font-weight: bolder;
+    margin: 5px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+#p1{
+    color:rgb(197, 69, 91);
+}
+
+#p2{
+    color: rgb(211, 60, 60);
+}
+#p3{
+    color:red;
+}
+#p4{
+    color: orangered;
+}
+#p5{
+    color:orange;
+}
+#p6{
+    color: lightyellow;
+}
+#p7{
+    color:yellow;
+}
+#p8{
+    color: yellowgreen;
+}
+#p9{
+    color:green;
+}
+#p10{
+    color: lightblue;
+}
+#p11{
+    color: blue;
+}
+#p12{
+    color: blueviolet;
+}
+#p13{
+    color: violet;
+}
+
+
+sub{
+    size: 1;
+    color: orange;
+}
+del{
+    color: yellow;
+}
+big{
+    color: blueviolet;
+}
